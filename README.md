@@ -98,5 +98,4 @@ Testing is a crucial part of the development process to ensure that your project
 ## Images
 
 ![armenia_showMore](https://res.cloudinary.com/dfaxacnyf/image/upload/v1701599413/Screenshot_150_akaj00.png)
-
 ![armenia_showLess](https://res.cloudinary.com/dfaxacnyf/image/upload/v1701599413/Screenshot_152_saseou.png)
