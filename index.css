@@ -1,0 +1,68 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.img-container{
+    background-image: url('https://res.cloudinary.com/dfaxacnyf/image/upload/v1701583755/armenia_tourism_ecqgp9.png');
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    height: 50vh;
+}
+  
+
+.armenia-card{
+    
+   text-align: center;
+     backdrop-filter:blur(6px);
+     background-color: rgba(0, 0, 0, 0.5);
+     padding:10px;
+     border-radius: 8px;
+     color:whitesmoke;
+     font-family: 'Roboto', sans-serif;
+     margin-bottom: 20px;
+     width: 40%;
+}
+
+.card-heading{
+    font-family:'Playfair Display', serif;
+}
+
+.description{
+    margin: 20px 30px;
+    color:rgb(88, 89, 91);
+}
+
+.heading{
+    font-family: 'Playfair Display', serif; 
+}
+
+.para{
+    font-size: 18px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#dots{
+    display: inline;
+}
+
+
+#toggleContent{
+    display: none;
+}
+
+
+.button{
+    background-color: transparent;
+    border: 0px;
+    font-weight: bold;
+    color:#008080;
+    font-size: 18px;
+    font-family: 'Roboto',sans-serif;
+    cursor: pointer;
+    outline: none;
+}
+
